@@ -1,0 +1,9 @@
+export const AUTH_PAGE = '/auth'
+export const HOME_PAGE = '/home'
+export const MY_PROFILE_PAGE = '/my-profile'
+export const PROFILE_PAGE = `/profile`;
+export const EVENT_PAGE = `/event/:id`;
+export const FRIENDS_PAGE = `/friends`;
+export const NEWS_PAGE = `/news`;
+export const MODERATOR_PANEL_PAGE = `/moderator-panel`;
+export const RECALLS_PAGE = `/recalls/:id`;
